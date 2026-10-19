@@ -4,3 +4,4 @@ dapaubqc505c73chtoug <- dump
 dap8r1v8gn2s739osru0 <-dump
 db9prsvi0auc739124gg <- initial noise model checking purpose
 dbama9pgv2cc73e73ec0 <-2nd initial noise model check
+dbamio9gv2cc73e73ogg <-3rd noise model check with minimum cz error qubit pair
